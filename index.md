@@ -1,8 +1,10 @@
 ---
-Steve's World: Welcome to my blog
+# Steve's World: Welcome to my blog
 ---
-**Cafe Saturday!** My wife and I have a habit of going to one of a handful of coffee shops every Saturday.  We ***REALLY*** prefer to visit cafes that have pastries but a good espresso machine is really all that's needed.  I have included a list of some our favorites below, enjoy!
+**Why do I enjoy blogging?** I believe it is important to preserve our lives for future generations to enjoy.  Some of the things I try to talk about are listed below.
 
-- Manchester Coffee Company
-- Brevede
-- Old School Coffee
+- My thoughts and feelings
+- What I am getting into
+- How I view the world
+
+#### ***I hope you enjoy the blog!***
